@@ -1,0 +1,5 @@
+# Modelo de lista local. Substitua os marcadores abaixo por endereços públicos
+# Bitcoin mainnet antes de consultar. Os marcadores são fictícios e estão
+# comentados para não serem enviados à API.
+# ENDERECO_BTC_MAINNET_1
+# ENDERECO_BTC_MAINNET_2

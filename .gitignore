@@ -1,0 +1,22 @@
+# Dados de trabalho: permanecem somente no computador.
+/list/
+/resultados/
+/backups/
+
+# Credenciais e configurações locais.
+.env
+.env.*
+!.env.example
+
+# Backups, temporários e caches.
+*.bak
+*.tmp
+*~
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.coverage
+htmlcov/
+.DS_Store
